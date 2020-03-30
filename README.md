@@ -1,2 +1,2 @@
 # VfxPlay
-Exploring Unity VFX to create audio reactive visuals
+Exploring the Unity Visual Effect Graph to create audio reactive visuals
