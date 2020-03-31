@@ -630,7 +630,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.01
-  far clip plane: 333
+  far clip plane: 666
   field of view: 49.427994
   orthographic: 0
   orthographic size: 1.03
@@ -656,13 +656,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1297650280}
-  m_LocalRotation: {x: -0.033773836, y: 0.9327591, z: 0.09071817, w: 0.34726068}
+  m_LocalRotation: {x: -0.027654963, y: 0.953822, z: 0.0927667, w: 0.2843468}
   m_LocalPosition: {x: -0.91, y: -0.05, z: 1.58}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: -11.11, y: 139.16, z: 0}
+  m_LocalEulerAnglesHint: {x: -11.11, y: 146.8, z: 0}
 --- !u!114 &1297650287
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1025,8 +1025,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8382783995727366809}
   m_LocalRotation: {x: -0.033773836, y: 0.9327591, z: 0.09071817, w: 0.34726068}
-  m_LocalPosition: {x: 77.9, y: 22.2, z: -280.4}
-  m_LocalScale: {x: 20, y: 20, z: 20}
+  m_LocalPosition: {x: 143, y: 56.1, z: -566.1}
+  m_LocalScale: {x: 55, y: 55, z: 55}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 7
@@ -1082,7 +1082,7 @@ GameObject:
   - component: {fileID: 133460761221088716}
   - component: {fileID: 3554378912253723664}
   m_Layer: 0
-  m_Name: FujiCutout
+  m_Name: Fuji
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
